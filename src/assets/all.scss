@@ -1,0 +1,4 @@
+//@import "../node_modules/bootstrap/scss/bootstrap";
+// bootstrap 官方提供的是這個路徑，但在vite裡不用使用../node_modules這段
+
+@import "bootstrap/scss/bootstrap";
